@@ -25,7 +25,7 @@
     "lodash.update": "^4.10.2",
     "mocha": "^5.2.0",
     "mocha-jscs": "~5.0.1",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "morgan": "^1.9.0",
     "pg": "^7.4.3"
   },
